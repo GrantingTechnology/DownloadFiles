@@ -9,7 +9,8 @@ Baixe a documentação(PT), caso esteja iniciando na programação, e não tenha
 Download the documentation (PT), if you are new to programming, and are not so familiar with the terms used in IT!
 
 
-https://docs.google.com/document/d/1x4IeQrCp1b2mDHmFXUKI74taSuB6cg-Di-yw2WA0EQ4/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1x4IeQrCp1b2mDHmFXUKI74taSuB6cg-Di-yw2WA0EQ4/edit?usp=sharing" target="_blank">Baixe do Google Drive</a>
+
 
 
 
